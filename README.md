@@ -2,7 +2,7 @@
 This repository stores the ROS code for the xArm 7 robotic arm in ARClab.
 
 
-Created by [TianxiaoYe](https://github.com/TianxiaoYee). If you have any questions, please contact via email: **tye46@wisc.edu**
+Created by [TianxiaoYe](https://github.com/TianxiaoYe-Shawn). If you have any questions, please contact via email: **tye46@wisc.edu**
 ***
 *This code repository is based on Ubuntu 20.04 and ROS Noetic version.*
 ## XArm 7 Controller Simulation
